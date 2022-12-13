@@ -1,0 +1,3 @@
+﻿  test.cpp
+C:\Users\qamar\source\repos\testProject\test.cpp(22,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  testProject.vcxproj -> C:\Users\qamar\source\repos\testProject\x64\Debug\testProject.exe
